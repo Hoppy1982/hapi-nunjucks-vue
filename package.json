@@ -1,0 +1,21 @@
+{
+  "name": "hapi-nunjucks-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "@hapi/inert": "^6.0.1",
+    "@hapi/vision": "^6.0.0",
+    "blipp": "^4.0.1",
+    "nodemon": "^2.0.3",
+    "nunjucks-hapi": "^2.1.0",
+    "vue": "^2.6.11"
+  }
+}
